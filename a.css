@@ -1,0 +1,217 @@
+*{
+
+    margin: 0;
+  
+    padding:0;
+  
+  
+  
+    margin: 0px;
+  
+    padding: 0px;
+  
+    box-sizing: border-box;
+  
+  }
+  
+  div{
+  
+    width: 200px;
+  
+    height: 200px;
+  
+    background: pink;
+  
+    border:5px ridge black;
+  
+    box-shadow: -5px 5px 5px darkblue;
+  
+    margin:100px;
+  
+    padding: 50px;
+  
+  }
+  
+   #c1{
+  
+    width: 200px;
+  
+    height: 200px;
+  
+    background-color: #b3d5a4;
+  
+    border:7px hidden black;
+  
+    box-shadow: 1px 5px 5px darkred;
+  
+    margin:100px;
+  
+    padding: 50px;
+  
+    
+  
+  }
+  
+   #c2{
+  
+    width: 200px;
+  
+    height: 200px;
+  
+    background-color: #FAB;
+  
+    border:7px dashed black;
+  
+    box-shadow: 5px 5px 5px red;
+  
+    margin:100px;
+  
+    padding: 50px;
+  
+    
+  
+  }
+  
+   #c3{
+  
+    width: 200px;
+  
+    height: 200px;
+  
+    background: skyblue;
+  
+    border:7px solid black;
+  
+    box-shadow: 5px 5px 45px darkblue;
+  
+    margin:100px;
+  
+    padding: 100px;
+  
+    
+  
+  }
+  
+   #c4{
+  
+    width: 200px;
+  
+    height: 200px; 
+  
+    background: rgb(43,100,50);
+  
+    border:7px double black;
+  
+    box-shadow: 5px 5px 5px orangered;
+  
+    margin:100px;
+  
+    padding: 50px;
+  
+    
+  
+  }
+  
+   #c5{
+  
+    width: 200px;
+  
+    height: 200px;
+  
+    background: rgb(50, 70, 10);
+  
+    border:7px dotted black;
+  
+    box-shadow: 5px 5px 5px seagreen;
+  
+    margin:100px;
+  
+    padding: 60px;
+  
+    
+  
+  }
+  
+   #c6{
+  
+    width: 200px;
+  
+    height: 200px;
+  
+    background: rgba(20, 50, 160, 90);
+  
+    border:7px groove black;
+  
+    box-shadow: 5px 5px 5px peachpuff;
+  
+    margin:100px;
+  
+    padding: 50px;
+  
+    
+  
+  }
+  
+  
+  
+   #c7{
+  
+    width: 200px;
+  
+    height: 200px;
+  
+    background: linear-gradient(red 10%,black 50%,green 40%);
+  
+    border:7px ridge black;
+  
+    box-shadow: -59px 5px 59px azure;
+  
+    margin:100px;
+  
+    padding: 50px;
+  
+    
+  
+  }
+  
+   #c8{
+  
+    width: 200px;
+  
+    height: 200px;
+  
+    background: linear-gradient(red 7%,white 30%,red 10%);
+  
+    border:7px dashed red;
+  
+    box-shadow: 5px 5px 75px palevioletred;
+  
+    margin:100px;
+  
+    padding: 50px;
+  
+    
+  
+  }
+  
+   
+  
+   #c9{
+  
+    width: 200px;
+  
+    height: 200px;
+  
+    background-color: hsl(248, 57%, 58%);
+  
+    border:7px ridge black;
+  
+    box-shadow: 5px 100px 5px lightcoral;
+  
+    margin:100px;
+  
+    padding: 70px;
+  
+    
+  
+  }

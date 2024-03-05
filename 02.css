@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+  }
+
+
+  img{
+    width: 200;
+    height: 300;
+    margin: auto;
+    border-radius: 70%;
+  }
+  div{
+    background-color: rgb(23, 112, 156);
+    width: 200;
+    height: 300;
+    border: 2px dashed black;
+    margin: 20px;
+    display: inline-block;
+  }
+ #diferente{
+background: red;
+  }
+  .blue{
+    background-color: aqua;
+    border: 2px;
+    margin: 30px;
+    
+  }
+  input[type="text"]{
+    background: rgb(9, 240, 198);
+    font-size: 3;
+    font: bold;
+  }
+
+  header>h1{
+    font: bold;
+    font-size: 10;
+    
+  }
+  button.pink,#primary{
+    background: red;
+    font-size: 10;
+    font: bold;
+  }
+  h1,h2{
+    background: yellowgreen;
+    font: 100;
+  }
+ 
