@@ -1,0 +1,94 @@
+@font-face {
+    font-family: gta ;
+    src: url("font/pricedown\ bl.ttf");
+}
+
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+#color1{
+    background: linear-gradient(rgb(43, 230, 196),rgb(28, 26, 26));
+    -webkit-background-clip: text;
+    color: transparent;  
+}
+#family{
+    font-family:gta ;
+}
+#family2{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+}
+#tamaño1{
+    font-size: 50px;
+}
+#tamaño2{
+    font-size: 0.5em;
+}
+#style1{
+font-style: normal;
+}
+#style2{
+    font-style: italic;
+    }
+    #style3{
+        font-style: oblique;
+        }
+        #bold{
+            font-weight: bold;
+        }
+        #bold2{
+            font-weight: lighter;
+        }
+        #bold3{
+            font-weight: 400;
+        }
+        #trans{
+            text-transform: uppercase;
+        }
+        #trans2{
+            text-transform: lowercase;
+        }
+        #trans3{
+            text-transform: capitalize;
+        }
+        #deco1{
+            text-decoration: none;
+        }
+        #deco2{
+           text-decoration: underline;
+        }
+        #deco3{
+          text-decoration: overline;
+        }
+        #deco4{
+            text-decoration: line-through;
+        }
+        #sombra{
+            text-shadow: 0 0 5px black;
+        }
+        #sombra2{
+            text-shadow: -5 -3 0px blue;
+        }
+        #text1{
+           text-align: left;
+           line-height: 1.5;
+        }
+        #text2{
+            text-align: right;
+            line-height: 5;
+            letter-spacing: 10px;
+         }
+         #text3{
+            text-align:center;
+            line-height: 3;
+            word-spacing: 4px;
+         }
+         #text4{
+            text-align:justify;
+            line-height: 10;
+         }
+
+
+
+        

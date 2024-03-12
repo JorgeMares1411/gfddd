@@ -98,7 +98,7 @@
   
     height: 200px; 
   
-    background: rgb(43,100,50);
+    background: 90% rgb(30, 20, 100);
   
     border:7px double black;
   
@@ -118,9 +118,9 @@
   
     height: 200px;
   
-    background: rgb(50, 70, 10);
+    background:90% rgba(10, 20, 50, 0.5);
   
-    border:7px dotted black;
+    border:7px dotted rgb(28, 34, 197);
   
     box-shadow: 5px 5px 5px seagreen;
   
@@ -138,7 +138,7 @@
   
     height: 200px;
   
-    background: rgba(20, 50, 160, 90);
+    background:45% rgba(100%, 10%, 0%, 1);
   
     border:7px groove black;
   
@@ -160,7 +160,7 @@
   
     height: 200px;
   
-    background: linear-gradient(red 10%,black 50%,green 40%);
+    background: linear-gradient(rgb(205, 55, 55) 50%,rgb(212, 139, 139) 25%,green 25%);
   
     border:7px ridge black;
   
@@ -180,7 +180,7 @@
   
     height: 200px;
   
-    background: linear-gradient(red 7%,white 30%,red 10%);
+    background:50% linear-gradient( rgb(20, 202, 102) 0%,rgb(116, 23, 159) 50%,red 100%);
   
     border:7px dashed red;
   
@@ -202,7 +202,7 @@
   
     height: 200px;
   
-    background-color: hsl(248, 57%, 58%);
+    background-color: hsl(248, 59%, 65%);
   
     border:7px ridge black;
   
